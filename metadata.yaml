@@ -1,5 +1,8 @@
 _repo: De-stille-kracht_67219
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67219-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Couperus, Louis
@@ -12,6 +15,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Louis_Couperus
     - https://en.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67219#De-stille-kracht
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67219'
